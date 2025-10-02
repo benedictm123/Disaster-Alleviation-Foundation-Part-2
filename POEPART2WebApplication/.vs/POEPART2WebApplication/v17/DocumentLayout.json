@@ -1,0 +1,661 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\volunteers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\volunteers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\volunteers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\volunteers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\volunteers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\volunteers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\volunteers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\volunteers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\volunteers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\volunteers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\donations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\donations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\donations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\donations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\donations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\donations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|c:\\users\\rc_student_lab\\source\\repos\\poepart2webapplication\\poepart2webapplication\\poepart2webapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB38AD7-FB92-4A11-8062-E8FF23AC2865}|POEPART2WebApplication\\POEPART2WebApplication.csproj|solutionrelative:poepart2webapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Volunteers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Delete.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Volunteers\\Delete.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:15:05.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T18:58:11.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAACgMjMzMzMrwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:38:54.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\Project.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:26:00.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\Event.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:27:06.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\Volunteer.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Models\\Volunteer.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\Volunteer.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Models\\Volunteer.cs",
+              "ViewState": "AgIAAAUAAAD4//////8wwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:26:23.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\User.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:25:47.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:31:41.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Details.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Volunteers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Details.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Volunteers\\Details.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:16:09.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Volunteers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Index.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Volunteers\\Index.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAqwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:18:45.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:21:48.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:23:21.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Donations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Index.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Donations\\Index.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:08:15.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Events\\Details.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:55:55.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Events\\Delete.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:54:49.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Volunteers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Edit.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Volunteers\\Edit.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:15:54.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Events\\Edit.cshtml",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:58:33.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VolunteersController.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Controllers\\VolunteersController.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Controllers\\VolunteersController.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Controllers\\VolunteersController.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Controllers\\VolunteersController.cs",
+              "ViewState": "AgIAAJcAAAAAZmZmZmYGwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:45:59.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Create.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Volunteers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Volunteers\\Create.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Volunteers\\Create.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:05:58.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:00:15.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Donations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Delete.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Donations\\Delete.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:03:26.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Details.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Donations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Details.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Donations\\Details.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T20:05:47.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Donations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Edit.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Donations\\Edit.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:15:43.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:53:37.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Projects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Index.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Projects\\Index.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:50:50.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Create.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Donations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Donations\\Create.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Donations\\Create.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:15:13.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Projects\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Edit.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Projects\\Edit.cshtml",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:49:18.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Details.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Projects\\Details.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Details.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Projects\\Details.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:48:08.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Projects\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Delete.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Projects\\Delete.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:41:23.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Create.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Projects\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Projects\\Create.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Projects\\Create.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwIUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:28:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DonationsController.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Controllers\\DonationsController.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Controllers\\DonationsController.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Controllers\\DonationsController.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Controllers\\DonationsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:42:15.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Program.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:31:23.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwIEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T09:09:36.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\appsettings.json",
+              "RelativeToolTip": "POEPART2WebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T02:38:21.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "POEPART2WebApplication\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T02:38:43.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "POEPART2WebApplication\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-01T09:09:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Models\\Donation.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Models\\Donation.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Models\\Donation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:26:32.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:48:56.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:41:38.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "POEPART2WebApplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\POEPART2WebApplication\\POEPART2WebApplication\\POEPART2WebApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "POEPART2WebApplication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:37:10.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
